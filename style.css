@@ -63,7 +63,7 @@ input:focus {
 button {
     margin-left: 8px;
     padding: 10px 16px;
-    background: linear-gradient(135deg, #f48fb1, #e06090); /* Rosa gradient */
+    background: linear-gradient(135deg, #b48fb1, #9060e0); /* Rosa gradient */
     color: white;
     border: none;
     border-radius: 12px;
